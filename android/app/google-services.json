@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844104997239",
+    "project_id": "namaz-colck-app",
+    "storage_bucket": "namaz-colck-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844104997239:android:b9d61f746ba2c28022a972",
+        "android_client_info": {
+          "package_name": "com.example.namaz_clock_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQrSz2K8eyTHseaMeCGxiOfeTiVbDdMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="clockGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <circle cx="100" cy="80" r="50" fill="#ffffff" stroke="url(#clockGrad)" stroke-width="4"/>
+
+  <line x1="100" y1="80" x2="100" y2="45" stroke="#059669" stroke-width="4" stroke-linecap="round"/>
+  <line x1="100" y1="80" x2="125" y2="70" stroke="#059669" stroke-width="3" stroke-linecap="round"/>
+
+  <circle cx="100" cy="80" r="4" fill="#059669"/>
+
+  <circle cx="100" cy="40" r="3" fill="#059669"/>
+  <circle cx="140" cy="80" r="3" fill="#059669"/>
+  <circle cx="100" cy="120" r="3" fill="#059669"/>
+  <circle cx="60" cy="80" r="3" fill="#059669"/>
+
+  <circle cx="125" cy="55" r="2" fill="#10b981"/>
+  <circle cx="125" cy="105" r="2" fill="#10b981"/>
+  <circle cx="75" cy="55" r="2" fill="#10b981"/>
+  <circle cx="75" cy="105" r="2" fill="#10b981"/>
+
+  <text x="100" y="155" text-anchor="middle" font-family="serif" font-size="16" fill="#059669" font-weight="bold">وَأَقِيمُوا الصَّلَاةَ</text>
+
+  <text x="100" y="175" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#6b7280">"And establish prayer"</text>
+</svg>
